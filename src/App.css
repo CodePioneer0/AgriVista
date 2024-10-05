@@ -1,0 +1,100 @@
+.hero-section {
+    background-image: url('https://media.istockphoto.com/id/1328004520/photo/healthy-young-soybean-crop-in-field-at-dawn.jpg?s=612x612&w=0&k=20&c=XRw20PArfhkh6LLgFrgvycPLm0Uy9y7lu9U7fLqabVY='); /* Replace with your image URL */
+    background-size: cover; /* Cover the entire section */
+    background-position: center; /* Center the image */
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    text-align: center; /* Center text */
+    position: relative; /* For overlay effect */
+  }
+  
+  .hero-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    z-index: 1; /* Make sure overlay is above the image */
+  }
+  
+  .hero-section .container {
+    position: relative; /* Bring text above the overlay */
+    z-index: 2; /* Make sure text is above the overlay */
+  }
+  .about-agri {
+    padding: 60px 20px; /* Add padding for better spacing */
+    background-color: #f8f9fa; /* Light background color */
+    background-image: url(https://c1.wallpaperflare.com/preview/998/869/314/plants-crops-maize-corn-thumbnail.jpg);
+    background-size: cover;
+    text-align: left;
+    border-radius: 8px; /* Add rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    margin: 40px 0; /* Margin for separation from hero section */
+  }
+  
+  .about-agri h2 {
+    font-size: 2.5rem; /* Increase heading size */
+    margin-bottom: 20px; /* Spacing below heading */
+    color: #043811; /* Dark green color for the heading */
+  }
+  
+  .about-agri p {
+    font-size: 1.2rem; /* Slightly larger font size for readability */
+    color: #333; /* Darker color for text */
+    line-height: 1.6; /* Increase line height for better readability */
+  }
+  
+  .list-group-item {
+    background-color: transparent; /* Make list items transparent */
+    border: none; /* Remove border */
+    padding: 15px; /* Padding for list items */
+    font-size: 1.1rem; /* Slightly larger font size */
+    color: #555; /* Darker gray color for list items */
+  }
+  
+  .list-group-item strong {
+    color: #28a745; /* Green color for strong text */
+  }
+  
+  .list-group-item:not(:last-child) {
+    border-bottom: 1px solid #e9ecef; /* Light border for separation */
+  }
+  
+  .list-group-item:hover {
+    background-color: #e9ecef; /* Light background on hover */
+  }
+  
+  .about-agri .mt-4 {
+    color: #070504; /* Contrasting color for the last paragraph (e.g., bright red) */
+  font-weight: 700;
+    margin-top: 30px; /* Increased spacing for the last paragraph */
+  }
+  .services {
+    background-image: url(https://img.freepik.com/free-photo/growing-organic-ecological-plants-fields-background_1268-30622.jpg);
+    background-size: cover;
+    padding: 60px 20px; /* Add padding */
+    background-color: #ffffff; /* White background for services section */
+  }
+  
+  .services h2 {
+    font-size: 2.5rem; /* Size for the section heading */
+    color: #043e11; /* Dark green for heading */
+  }
+  
+  .card {
+    border: none; /* Remove border for card */
+    border-radius: 8px; /* Rounded corners for cards */
+  }
+  
+  .card-title {
+    font-size: 1.5rem; /* Increase title size */
+    color: #333; /* Dark text for contrast */
+  }
+  
+  .card-text {
+    color: #555; /* Dark gray for text */
+  }
