@@ -88,34 +88,31 @@ function Resources() {
     },
     {
       title: "Precision Agriculture Techniques",
-      url: "https://www.youtube.com/embed/bsLEvQVc9lk?si=aJkQBrbxEWL2arey", // Replace with actual video ID
+      url: "https://www.youtube.com/embed/bsLEvQVc9lk?si=aJkQBrbxEWL2arey", 
     },
     {
       title: "Irrigation Management Practices",
-      url: "https://www.youtube.com/embed/JrDxPWZSE2U?si=WdDVwzWzFgbuy_Bf", // Replace with actual video ID
+      url: "https://www.youtube.com/embed/JrDxPWZSE2U?si=WdDVwzWzFgbuy_Bf", 
     },
     {
       title: "Organic Farming Basics",
-      url: "https://www.youtube.com/embed/JrDxPWZSE2U?si=WdDVwzWzFgbuy_Bf", 
-      url: "https://www.youtube.com/embed/v5JeoXtqk2s?si=0QEkGINwzIvM-4fx",// Replace with actual video ID
+      url: "https://www.youtube.com/embed/v5JeoXtqk2s?si=0QEkGINwzIvM-4fx",
     },
     {
-      title: "Crop Rotation Strategies",
-      url: "https://www.youtube.com/embed/v5JeoXtqk2s?si=0QEkGINwzIvM-4fx", 
-      url: "https://www.youtube.com/embed/XeNA6XdMoF8?si=CZ0kpXJzNS7jDi5O",// Replace with actual video ID
+      title: "Crop Rotation Strategies", 
+      url: "https://www.youtube.com/embed/XeNA6XdMoF8?si=CZ0kpXJzNS7jDi5O",
     },
     {
-      title: "Soil Health Management",
-      
-      url: "https://www.youtube.com/embed/7slM-rdtSsQ?si=ode5qE_yOPqCeExZ", // Replace with actual video ID
+      title: "Soil Health Management",   
+      url: "https://www.youtube.com/embed/7slM-rdtSsQ?si=ode5qE_yOPqCeExZ", 
     },
     {
       title: "Pest Management Techniques",
-      url: "https://www.youtube.com/embed/Wf0ONrMY_fo?si=h31_gAB-uqFgSsJ5",// Replace with actual video ID
+      url: "https://www.youtube.com/embed/Wf0ONrMY_fo?si=h31_gAB-uqFgSsJ5",
     },
     {
       title: "Sustainable Livestock Farming",
-      url: "https://www.youtube.com/embed/7uGJTvn-h_k?si=cknL7wNIMyLylYf3", // Replace with actual video ID
+      url: "https://www.youtube.com/embed/7uGJTvn-h_k?si=cknL7wNIMyLylYf3", 
     },
   ];
 
