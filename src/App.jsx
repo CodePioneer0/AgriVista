@@ -160,38 +160,37 @@ function Alerts() {
     {
       title: "New Crop Subsidy Announced",
       description: "The government has announced new subsidies for wheat and rice crops.",
-      imageUrl: "https://via.placeholder.com/150", // Replace with actual image URL
-      link: "https://example.com/alert1" // Replace with actual link
+      imageUrl: "https://th.bing.com/th/id/R.6025e8af02d404c3d764f55b0de39b79?rik=hQ8S51Ui2oDnaA&riu=http%3a%2f%2fcdn.statcdn.com%2fInfographic%2fimages%2fnormal%2f24416.jpeg&ehk=ehYbpbvW56hpYeGGKrkCk6Wxfe9DE6C4Z%2blB9Wpo9jM%3d&risl=&pid=ImgRaw&r=0",
+      link: "https://www.thehindu.com/business/budget/budget-2024-agriculture-gets-higher-allocation-fertilizer-food-subsidies-slashed-farmers-express-concern/article68437665.ece"
     },
     {
       title: "Weather Advisory for Farmers",
       description: "Farmers are advised to take precautions due to heavy rainfall in the upcoming weeks.",
-      imageUrl: "https://via.placeholder.com/150", // Replace with actual image URL
-      link: "https://example.com/alert2" // Replace with actual link
-    },
+      imageUrl: "https://th.bing.com/th/id/OIP.Ah2i8M9fOs2sJwApSYE1NAAAAA?rs=1&pid=ImgDetMain", 
+      link: "https://www.downtoearth.org.in/agriculture/hyper-local-weather-advisories-help-bengal-farmers-cut-costs-84226",
     {
       title: "New Pest Control Guidelines",
       description: "Updated guidelines for pest management are now available.",
-      imageUrl: "https://via.placeholder.com/150", // Replace with actual image URL
-      link: "https://example.com/alert3" // Replace with actual link
+      imageUrl: "https://5.imimg.com/data5/SELLER/Default/2024/8/439479541/PQ/WN/UK/162243507/pest-management-500x500.jpeg",
+      link: "https://ppqs.gov.in/divisions/integrated-pest-management/instruction-safe-use-pesticide" 
     },
     {
       title: "Irrigation Assistance Program",
       description: "Farmers can now apply for assistance in irrigation projects.",
-      imageUrl: "https://via.placeholder.com/150", // Replace with actual image URL
-      link: "https://example.com/alert4" // Replace with actual link
+      imageUrl: "https://fdp.com.pk/wp-content/uploads/2018/11/irrigation-services-in-arizona-southwest-irrigation.jpg", 
+      link: "https://www.worldbank.org/en/news/press-release/2023/06/09/world-bank-approves-148-million-financing-for-minor-irrigation-project-to-support-water-availability-increase-food-secur#:~:text=WASHINGTON%2C%20June%209%2C%202023%E2%80%94,benefit%20people%20in%20rural%20areas." 
     },
     {
       title: "Soil Health Initiative Launched",
       description: "A new initiative aimed at improving soil health is now in effect.",
-      imageUrl: "https://via.placeholder.com/150", // Replace with actual image URL
-      link: "https://example.com/alert5" // Replace with actual link
+      imageUrl: "https://tneaonline.in/wp-content/uploads/2021/09/Soil-Health-Card-Scheme.jpg", 
+      link: "https://www.outlookbusiness.com/news/ground-breaking-agri-initiatives-for-soil-health-farmer-empowerment-launched-news-417185"
     },
     {
       title: "Market Prices Update",
       description: "Current market prices for major crops have been updated.",
-      imageUrl: "https://via.placeholder.com/150", // Replace with actual image URL
-      link: "https://example.com/alert6" // Replace with actual link
+      imageUrl: "https://th.bing.com/th/id/OIP.1beFJteJb6VVlBH8OGnzAgAAAA?rs=1&pid=ImgDetMain", 
+      link: "https://agmarknet.gov.in/PriceAndArrivals/DatewiseCommodityReport.aspx", 
     },
   ];
 
