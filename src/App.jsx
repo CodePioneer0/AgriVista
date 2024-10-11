@@ -168,6 +168,7 @@ function Alerts() {
       description: "Farmers are advised to take precautions due to heavy rainfall in the upcoming weeks.",
       imageUrl: "https://th.bing.com/th/id/OIP.Ah2i8M9fOs2sJwApSYE1NAAAAA?rs=1&pid=ImgDetMain", 
       link: "https://www.downtoearth.org.in/agriculture/hyper-local-weather-advisories-help-bengal-farmers-cut-costs-84226",
+    },
     {
       title: "New Pest Control Guidelines",
       description: "Updated guidelines for pest management are now available.",
